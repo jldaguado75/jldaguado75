@@ -14,7 +14,7 @@ Soy experto en Redes de Comunicaciones IP. Actualmente, estoy trabajando en un d
 
 [//]: # (Puedes usar íconos de https://simpleicons.org/ para representar lenguajes y herramientas.)
 
-![NombreDelLenguaje](URLDelÍcono) ![NombreDeLaHerramienta](URLDelÍcono)
+|POO(URLDelÍcono) !Intellij(URLDelÍcono)
 
 ## Estadísticas de GitHub
 
