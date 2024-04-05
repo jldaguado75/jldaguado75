@@ -1,16 +1,14 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy José Luis. 👋
 
 ## Sobre mí
-Soy [Tu Rol o Título Profesional], apasionado/a por [Tu Área de Interés]. Actualmente, estoy trabajando en [Tu Proyecto Actual o Empresa] y aprendiendo [Tecnologías o Habilidades que Estás Aprendiendo].
+Soy experto en Redes de Comunicaciones IP. Actualmente, estoy trabajando en un despliegue de Red IP/MPLS y aprendiendo Programación Orientada a Objetos.
 
-- 🔭 Actualmente estoy trabajando en [Nombre del Proyecto]
-- 🌱 Estoy aprendiendo [Herramientas, Tecnologías, Lenguajes]
-- 👯 Busco colaborar en [Tipo de Proyectos]
-- 🤔 Busco ayuda con [Tu Desafío Actual]
-- 💬 Pregúntame sobre [Temas sobre los que Te Gustaría Conversar]
-- 📫 Cómo contactarme: [Tu Email]
-- 😄 Pronombres: [Tus Pronombres]
-- ⚡ Dato curioso: [Algo Interesante Sobre Ti]
+- 🌱 Estoy aprendiendo Programación Orientada a Objetos POO.
+- 👯 Busco colaborar en proyectos relacionados con la IA.
+- 🤔 Busco ayuda con el desarrollo de una aplicación para HBBTV y servidor VPN en la nube.
+- 💬 Pregúntame sobre Inteligencia Artificial.
+- 📫 Cómo contactarme: jldaguado@uoc.edu
+- ⚡ Dato curioso: muy aficionado al Ciclismo y la relojería.
 
 ## Lenguajes y Herramientas
 
